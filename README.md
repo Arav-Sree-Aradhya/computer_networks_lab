@@ -1,12 +1,12 @@
 # Computer Networks Lab
+231210023
 
-## 📘 Overview
+## Overview
 
-This repository contains implementations of various computer networking concepts, focusing on socket programming, client-server architectures, and multithreading. The projects are designed to demonstrate practical applications of networking protocols and concurrency in C and Python.
-
+This repository contains implementations of various computer networking concepts for the NITD CSBB-301 course.
 ---
 
-## Projects
+## Descriptions (1-3)
 
 ### 🔹 Lab 1: Basic Client-Server Communication
 
